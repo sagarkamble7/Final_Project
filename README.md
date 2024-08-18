@@ -1,4 +1,4 @@
-# Final_Project-Fake_News_Classifier
+# Final_Project
 
 
 Develop a machine learning program to identify when an article might be fake news.
